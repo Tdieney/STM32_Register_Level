@@ -1,0 +1,11 @@
+gpio.c:13:6:gpio_LED_config	4	static
+gpio.c:26:6:gpio_LED_write	16	static
+gpio.c:40:6:gpio_LED_toggle	4	static
+gpio.c:48:6:gpio_PB_config	4	static
+gpio.c:64:6:gpio_PB_read	4	static
+gpio.c:72:6:gpio_SW_config	4	static
+gpio.c:91:6:gpio_SW1_read	4	static
+gpio.c:96:6:gpio_SW2_read	4	static
+gpio.c:104:6:gpio_TIM1_CH1N_config	4	static
+gpio.c:118:6:gpio_TIM3_PWM_RGB_config	4	static
+gpio.c:136:6:gpio_TIM4_Encoder_config	4	static

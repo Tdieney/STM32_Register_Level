@@ -1,0 +1,10 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+core_cm3.h:1600:22:__NVIC_ClearPendingIRQ	16	static
+core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+tim.c:15:6:tim_TIM3_initTicks	8	static
+tim.c:44:6:tim_msIncTick	4	static
+tim.c:52:10:tim_msGetTick	4	static
+tim.c:60:6:tim_msDelay	24	static
+tim.c:69:6:tim_PWM_config	4	static
+tim.c:123:6:tim_config	8	static
+tim.c:129:6:TIM3_IRQHandler	8	static

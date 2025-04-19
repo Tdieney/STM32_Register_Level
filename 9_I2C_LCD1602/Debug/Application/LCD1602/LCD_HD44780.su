@@ -1,0 +1,9 @@
+LCD_HD44780.c:41:6:lcd_command	24	static
+LCD_HD44780.c:55:6:lcd_data	24	static
+LCD_HD44780.c:69:6:lcd_init	16	static
+LCD_HD44780.c:84:6:lcd_string	16	static
+LCD_HD44780.c:89:6:lcd_goto_xy	24	static
+LCD_HD44780.c:95:6:lcd_16x2_2line_num	24	static
+LCD_HD44780.c:106:6:lcd_20x4_2line_num	24	static
+LCD_HD44780.c:117:6:lcd_20x4_4line_num	24	static
+LCD_HD44780.c:126:6:lcd_clear	8	static

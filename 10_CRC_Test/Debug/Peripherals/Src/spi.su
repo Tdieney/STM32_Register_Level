@@ -1,0 +1,6 @@
+spi.c:13:6:spi_GPIO_config	4	static
+spi.c:41:6:spi_config	16	static
+spi.c:72:6:spi_transmit	40	static
+spi.c:110:6:spi_receive	40	static
+spi.c:156:6:spi_RFID_CS_config	4	static
+spi.c:173:6:spi_RFID_CS_write	16	static

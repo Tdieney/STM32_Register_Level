@@ -1,0 +1,9 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+uart.c:13:6:uart_UART1_GPIO_config	4	static
+uart.c:32:6:uart_UART1_config	4	static
+uart.c:64:6:uart_UART1_transmit	32	static
+uart.c:96:6:uart_UART1_receive	32	static
+uart.c:119:6:uart_UART1_DMA_config	8	static
+uart.c:188:6:uart_UART1_DMA_transmit	16	static
+uart.c:203:6:uart_UART1_DMA_receive	24	static

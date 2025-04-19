@@ -1,0 +1,4 @@
+i2c.c:13:6:i2c_config	4	static
+i2c.c:34:6:i2c_I2C1_isSlaveAddressExist	24	static
+i2c.c:78:6:i2c_I2C1_masterTransmit	40	static
+i2c.c:147:6:i2c_I2C1_masterReceive	48	static

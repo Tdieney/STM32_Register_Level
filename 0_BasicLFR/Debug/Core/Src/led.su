@@ -1,0 +1,7 @@
+led.c:13:6:led_onAll	8	static
+led.c:26:6:led_offAll	4	static
+led.c:37:6:led_toggleAll	24	static
+led.c:54:6:led_on	16	static
+led.c:74:6:led_off	16	static
+led.c:94:6:led7seg_putc	16	static
+led.c:282:6:led7seg_string	16	static

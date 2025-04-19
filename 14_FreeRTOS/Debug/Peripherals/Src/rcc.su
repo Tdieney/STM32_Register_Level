@@ -1,0 +1,6 @@
+core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+rcc.c:15:6:rcc_HSE_config	4	static
+rcc.c:86:6:rcc_SysTick_config	8	static
+rcc.c:106:6:rcc_msIncTick	4	static
+rcc.c:114:10:rcc_msGetTick	4	static
+rcc.c:122:6:rcc_msDelay	24	static

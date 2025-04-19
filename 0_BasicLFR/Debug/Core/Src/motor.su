@@ -1,0 +1,4 @@
+motor.c:16:6:setLeftMotor	16	static
+motor.c:44:6:setRightMotor	16	static
+motor.c:69:6:stopLeftMotor	4	static
+motor.c:78:6:stopRightMotor	4	static

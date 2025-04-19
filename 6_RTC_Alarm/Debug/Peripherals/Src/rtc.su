@@ -1,0 +1,13 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+rtc.c:25:6:rtc_LSE_config	16	static
+rtc.c:57:6:rtc_config	4	static
+rtc.c:75:6:rtc_setUnixTime	16	static
+rtc.c:93:10:rtc_getUnixTime	4	static
+rtc.c:102:6:rtc_setDateTime	56	static
+rtc.c:124:6:rtc_getDateTime	56	static
+rtc.c:144:6:rtc_setUnixAlarm	16	static
+rtc.c:162:10:rtc_getUnixAlarm	4	static
+rtc.c:170:6:rtc_alarm_config	8	static
+rtc.c:187:6:rtc_setAlarm	56	static
+rtc.c:208:6:rtc_getAlarm	56	static

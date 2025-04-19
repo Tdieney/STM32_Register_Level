@@ -1,0 +1,13 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+core_cm3.h:1547:22:__NVIC_DisableIRQ	16	static,ignoring_inline_asm
+core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+adc.c:13:6:adc_GPIO_config	4	static
+adc.c:24:6:adc_single_config	16	static
+adc.c:55:6:adc_start	4	static
+adc.c:67:6:adc_stop	4	static
+adc.c:79:6:adc_pollForEOC	24	static
+adc.c:95:10:adc_readValue	4	static
+adc.c:103:6:adc_enableEOC_IT	8	static
+adc.c:112:6:adc_disableEOC_IT	8	static
+adc.c:123:6:adc_multiChannel_config	4	static
+adc.c:170:6:adc_multiChannel_DMA_config	16	static

@@ -1,0 +1,6 @@
+func.c:20:6:readHighValue	16	static
+func.c:26:6:readLowValue	16	static
+func.c:35:6:calcThreshold	16	static
+func.c:49:6:getThreshold	8	static
+func.c:61:6:sigProcessing	24	static
+func.c:102:6:calcPID	32	static

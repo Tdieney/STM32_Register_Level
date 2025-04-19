@@ -1,0 +1,6 @@
+tim.c:13:6:tim_TIM3_config	4	static
+tim.c:38:6:tim_TIM2_delayConfig	4	static
+tim.c:54:6:tim_TIM2_myDelayConfig	4	static
+tim.c:73:6:tim_TIM2_msDelay	16	static
+tim.c:83:6:delay_us	16	static
+tim.c:90:6:delay_ms	16	static
